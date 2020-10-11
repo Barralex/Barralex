@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C#" width="32px" src="https://i.pinimg.com/originals/97/cf/2c/97cf2ccd659ef9b00dd0aa15137130ec.png" />
+<img align="left" alt="C#" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="NET Core" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
@@ -26,7 +26,8 @@
 <img align="left" alt="Angular" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
 
 
-<img align="left" alt="Azure SQL" width="32px" src="https://i7.pngguru.com/preview/28/601/296/microsoft-azure-sql-database-microsoft-sql-server-database-thumbnail.jpg" />
+<img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Cosmo DB" width="32px" src="https://www.bobpusateri.com/wp-content/uploads/2018/09/CosmosDB-400.png" />
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 
