@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Graphql" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.returngis.net%2F2019%2F09%2Fcrear-una-api-con-graphql%2F&psig=AOvVaw2rwfWcVgZuIGdv-xC9_2ao&ust=1607448455500000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPis7qKyvO0CFQAAAAAdAAAAABAI" />
 <img align="left" alt="C#" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
