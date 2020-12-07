@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Graphql" width="32px" src="https://www.returngis.net/wp-content/uploads/2019/08/graphql-logo.png" />
+<img align="left" alt="Graphql" width="32px" src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png" />
 <img align="left" alt="C#" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
