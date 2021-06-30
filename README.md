@@ -2,7 +2,7 @@
 
 ## I'm a Software developer, beer drinker, dogs lover, and DOTA player!!
 
-- 🔭 I’m currently learning how to style react native apps with [Styled Components library](https://styled-components.com/)
+- 🔭 I’m currently learning how to consume a blockchain contract thru nodejs and [Web3 library ](https://web3js.readthedocs.io/en/v1.3.4/)
 - 🌱 I’m currently learning [AWS Cloud](https://aws.amazon.com/) and mastering [React Native](https://reactnative.dev/)
 - 📫 How to reach me: Check my [LinkedIn] Profile
 - ⚡ Fun fact: Really love to try every kind of beers out there and pet every dog I see
