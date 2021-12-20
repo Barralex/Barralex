@@ -2,7 +2,7 @@
 
 ## I'm a Software developer, beer drinker, dogs lover, and DOTA player!!
 
-- 🌱 AWS certificated developer
+- 🌱 [AWS certificated developer](https://www.credly.com/badges/5ffc535e-0c3f-443a-825f-c26540eabc2b) 
 - 📫 How to reach me: Check my [LinkedIn] Profile
 - ⚡ Fun fact: Really love to try every kind of beers out there and pet every dog I see
 
