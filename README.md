@@ -2,7 +2,7 @@
 
 ## I'm a Software developer, beer drinker, dogs lover, and DOTA player!!
 
-- 🌱 [AWS certificated developer](https://www.credly.com/badges/5ffc535e-0c3f-443a-825f-c26540eabc2b) 
+- [AWS certificated developer](https://www.credly.com/badges/5ffc535e-0c3f-443a-825f-c26540eabc2b) <img align="left" alt="LuisBarral | LinkedIn" width="22px" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" />
 - 📫 How to reach me: Check my [LinkedIn] Profile
 - ⚡ Fun fact: Really love to try every kind of beers out there and pet every dog I see
 
@@ -16,7 +16,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Graphql" width="32px" src="https://miro.medium.com/max/400/1*nP2C50GK4_-ly_R_mq3juQ.png" />
-<img align="left" alt="C#" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/699px-C_Sharp_logo.svg.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="NET Core" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1024px-.NET_Core_Logo.svg.png" />
