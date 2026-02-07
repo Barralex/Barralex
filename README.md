@@ -1,4 +1,5 @@
 ## Luis Barral
+#### 2x AWS Certified Solutions Architect
 
 **Solutions Architect** at [Vairix](https://vairix.com)
 
