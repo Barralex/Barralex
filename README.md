@@ -1,7 +1,5 @@
 ## Luis Barral
-#### 2x AWS Certified Solutions Architect
-
-**Solutions Architect** at [Vairix](https://vairix.com)
+**2x AWS Certified · Solutions Architect at [Vairix](https://vairix.com)**
 
 From infrastructure design to production monitoring. I make sure systems perform and stay reliable.
 
